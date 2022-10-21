@@ -1,0 +1,9 @@
+{
+	"name": "SarahGitADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2393a7cb-abc8-429c-85ec-666b1bf7edb0",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
